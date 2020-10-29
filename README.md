@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[LinkedIn](https://linkedin.com/in/akash-s-joshi)
+[Twitter](https://twitter.com/akashjdotcom)
