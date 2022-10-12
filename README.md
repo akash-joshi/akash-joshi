@@ -4,6 +4,8 @@ I am Akash Joshi, a writer, programmer and content creator with 5 years of exper
 
 I also write articles on things I think there needs to be more information about. For eg, recently I broke down the [React rendering tips](https://thewriting.dev/revisiting-react-rendering/) for beginners, which I think should be taught in React tutorials.
 
+> Note: My GH graph has stopped growing since I started working on Meta's internal systems :/
+
 <p align="center">
   <a href="https://thewriting.dev/about"><img src='https://github.com/pavanjadhaw/pavanjadhaw/raw/master/me.svg?sanitize=true' alt="About Me" title="About Me" height='55px'/></a>　
   <a href="https://thewriting.dev"><img src='https://github.com/pavanjadhaw/pavanjadhaw/raw/master/blog.svg?sanitize=true' alt="Blog" title="Blog" height='55px'/></a>　
