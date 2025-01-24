@@ -1,6 +1,6 @@
 # Hey There!
 
-I am Akash Joshi, a writer, programmer and content creator with 5 years of experience. I like to solve my own problems using code wherever possible. For eg, check out the [Telegram bot](https://github.com/akash-joshi/madulus) I use to automate my life. I've also built a [JSON Editor & Transformer](https://github.com/akash-joshi/json-transformer) to solve my own Data transformation needs.
+I am Akash Joshi, a writer, programmer and content creator with 5 years of experience. I like to solve my own problems using code wherever possible. For eg, check out the [Telegram bot](https://github.com/akash-joshi/madulus) I use to automate my life. I've also built a [zero-config transcription tool](https://github.com/akash-joshi/better-whisper/), which has also been deployed to brew.sh for my audio and video transcription needs. It generates high-quality subtitles for you for any media file using OpenAI's Whisper technology.
 
 The coolest project I'm working on right now is [RocketRPC 🚀](https://github.com/akash-joshi/rocketrpc) which blows up the walls 💣 between the client and server. 
 
