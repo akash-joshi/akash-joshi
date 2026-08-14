@@ -1,10 +1,10 @@
 # Hey There!
 
-I am Akash Joshi, a writer, programmer and content creator with 5 years of experience. I like to solve my own problems using code wherever possible. For eg, check out the [Telegram bot](https://github.com/akash-joshi/madulus) I use to automate my life. I've also built a [zero-config transcription tool](https://github.com/akash-joshi/better-whisper/), which has also been deployed to brew.sh for my audio and video transcription needs. It generates high-quality subtitles for you for any media file using OpenAI's Whisper technology.
+I am Akash Joshi - programmer and full-time consultant with over 8 years of programming experience. Over those 8 years - I've helped a company get acquired by Walmart, scaled 3 companies from 0 -> 1 and built high-throughput AI systems at companies like DeepL and Meta. I've built a certain talent to help businesses become AI-ready, which you can read more about [here](https://joshisystems.com/). 
 
-The coolest project I'm working on right now is [RocketRPC 🚀](https://github.com/akash-joshi/rocketrpc) which blows up the walls 💣 between the client and server. 
+I like to solve my own problems using code & AI wherever possible. Check out my personal [agent-skills repository](https://github.com/akash-joshi/agent-skills) for a list of skills I use every day. I built my own [autonomous ticket-completion workflow](https://github.com/akash-joshi/agent-skills/blob/main/agents/ticket.md) and a skill to [chat with my Voice Notes](https://github.com/akash-joshi/agent-skills/tree/main/skills/voicenotes-skill).
 
-I also write articles on things I think there needs to be more information about. For eg, recently I broke down the [React rendering tips](https://thewriting.dev/revisiting-react-rendering/) for beginners, which I think should be taught in React tutorials.
+I also share my latest learnings on AI and programming on my blog, you can find the latest one [here](https://thewriting.dev/chat-with-your-voice-notes-from-any-ai-agent/).
 
 <p align="center">
   <a href="https://thewriting.dev/about"><img src='https://github.com/pavanjadhaw/pavanjadhaw/raw/master/me.svg?sanitize=true' alt="About Me" title="About Me" height='55px'/></a>　
