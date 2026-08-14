@@ -8,6 +8,7 @@ I also share my latest learnings on AI and programming on my blog, you can find 
 
 <p align="center">
   <a href="https://thewriting.dev/about"><img src='https://github.com/pavanjadhaw/pavanjadhaw/raw/master/me.svg?sanitize=true' alt="About Me" title="About Me" height='55px'/></a>　
+  <a href="https://joshisystems.com"><img src='./my-work.svg' alt="My Work" title="My Work" height='55px'/></a>　
   <a href="https://thewriting.dev"><img src='https://github.com/pavanjadhaw/pavanjadhaw/raw/master/blog.svg?sanitize=true' alt="Blog" title="Blog" height='55px'/></a>　
   <a href="https://twitter.com/thewritingdev"><img src='https://github.com/pavanjadhaw/pavanjadhaw/raw/master/updates.svg?sanitize=true' alt="Updates" title="Updates" height='55px'/></a>　
 </p>
